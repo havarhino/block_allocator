@@ -1,0 +1,5 @@
+/lib
+/include
+a.out
+*.a
+*.o
